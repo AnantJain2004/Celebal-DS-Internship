@@ -47,4 +47,5 @@ This repository contains my work for the 8-week data science course and major pr
 - [ ] Major Project
 
 ---
-**Note:** This repository showcases my learning journey and practical implementation of data science concepts during my internship at Celebal Technologies.
+**Note:** This repository is a mirror of my original Celebal Data Science Internship submissions.
+My previous GitHub account (AnantJain2004) was mistakenly suspended, and this is my new account where I’ve re-uploaded the entire internship work.
