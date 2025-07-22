@@ -43,7 +43,7 @@ This repository contains my work for the 8-week data science course and major pr
 - [x] Week 5: Regression
 - [x] Week 6: Clustering
 - [x] Week 7: SQL Basics
-- [ ] Week 8: GenAI
+- [x] Week 8: GenAI
 - [ ] Major Project
 
 ---
